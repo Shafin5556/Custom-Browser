@@ -1,0 +1,42 @@
+I:\C#\Web Apllication\DIU Browser\DIU Browser\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+I:\C#\Web Apllication\DIU Browser\DIU Browser\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+I:\C#\Web Apllication\DIU Browser\DIU Browser\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+I:\C#\Web Apllication\DIU Browser\DIU Browser\bin\Debug\DIU Browser.exe.config
+I:\C#\Web Apllication\DIU Browser\DIU Browser\bin\Debug\DIU Browser.exe
+I:\C#\Web Apllication\DIU Browser\DIU Browser\bin\Debug\DIU Browser.pdb
+I:\C#\Web Apllication\DIU Browser\DIU Browser\bin\Debug\Bunifu_UI_v1.52.dll
+I:\C#\Web Apllication\DIU Browser\DIU Browser\bin\Debug\EasyTabs.dll
+I:\C#\Web Apllication\DIU Browser\DIU Browser\bin\Debug\Guna.UI2.dll
+I:\C#\Web Apllication\DIU Browser\DIU Browser\bin\Debug\Microsoft.Web.WebView2.Core.dll
+I:\C#\Web Apllication\DIU Browser\DIU Browser\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+I:\C#\Web Apllication\DIU Browser\DIU Browser\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+I:\C#\Web Apllication\DIU Browser\DIU Browser\bin\Debug\Microsoft.WindowsAPICodePack.dll
+I:\C#\Web Apllication\DIU Browser\DIU Browser\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+I:\C#\Web Apllication\DIU Browser\DIU Browser\bin\Debug\Svg.dll
+I:\C#\Web Apllication\DIU Browser\DIU Browser\bin\Debug\Win32Interop.Dwmapi.dll
+I:\C#\Web Apllication\DIU Browser\DIU Browser\bin\Debug\Win32Interop.Gdi32.dll
+I:\C#\Web Apllication\DIU Browser\DIU Browser\bin\Debug\Win32Interop.Kernel32.dll
+I:\C#\Web Apllication\DIU Browser\DIU Browser\bin\Debug\Win32Interop.User32.dll
+I:\C#\Web Apllication\DIU Browser\DIU Browser\bin\Debug\Win32Interop.Uxtheme.dll
+I:\C#\Web Apllication\DIU Browser\DIU Browser\bin\Debug\EasyTabs.xml
+I:\C#\Web Apllication\DIU Browser\DIU Browser\bin\Debug\Microsoft.Web.WebView2.Core.xml
+I:\C#\Web Apllication\DIU Browser\DIU Browser\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+I:\C#\Web Apllication\DIU Browser\DIU Browser\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+I:\C#\Web Apllication\DIU Browser\DIU Browser\bin\Debug\Svg.pdb
+I:\C#\Web Apllication\DIU Browser\DIU Browser\bin\Debug\Svg.xml
+I:\C#\Web Apllication\DIU Browser\DIU Browser\bin\Debug\Win32Interop.Dwmapi.pdb
+I:\C#\Web Apllication\DIU Browser\DIU Browser\bin\Debug\Win32Interop.Gdi32.pdb
+I:\C#\Web Apllication\DIU Browser\DIU Browser\bin\Debug\Win32Interop.Gdi32.xml
+I:\C#\Web Apllication\DIU Browser\DIU Browser\bin\Debug\Win32Interop.Kernel32.pdb
+I:\C#\Web Apllication\DIU Browser\DIU Browser\bin\Debug\Win32Interop.User32.pdb
+I:\C#\Web Apllication\DIU Browser\DIU Browser\bin\Debug\Win32Interop.Uxtheme.pdb
+I:\C#\Web Apllication\DIU Browser\DIU Browser\obj\Debug\DIU Browser.csproj.AssemblyReference.cache
+I:\C#\Web Apllication\DIU Browser\DIU Browser\obj\Debug\DIU Browser.csproj.SuggestedBindingRedirects.cache
+I:\C#\Web Apllication\DIU Browser\DIU Browser\obj\Debug\DIU_Browser.AppContainer.resources
+I:\C#\Web Apllication\DIU Browser\DIU Browser\obj\Debug\DIU_Browser.frmBrowser.resources
+I:\C#\Web Apllication\DIU Browser\DIU Browser\obj\Debug\DIU_Browser.Properties.Resources.resources
+I:\C#\Web Apllication\DIU Browser\DIU Browser\obj\Debug\DIU Browser.csproj.GenerateResource.cache
+I:\C#\Web Apllication\DIU Browser\DIU Browser\obj\Debug\DIU Browser.csproj.CoreCompileInputs.cache
+I:\C#\Web Apllication\DIU Browser\DIU Browser\obj\Debug\DIU Browser.csproj.CopyComplete
+I:\C#\Web Apllication\DIU Browser\DIU Browser\obj\Debug\DIU Browser.exe
+I:\C#\Web Apllication\DIU Browser\DIU Browser\obj\Debug\DIU Browser.pdb
